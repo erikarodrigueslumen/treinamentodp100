@@ -101,10 +101,6 @@ gelato-magico-ml/
 
 ---
 
-## 👤 Autor
-**Erika Rodrigues**  
- 
-
 ---
 
 Se este template ajudou, deixe uma ⭐ no repositório quando publicar no GitHub!

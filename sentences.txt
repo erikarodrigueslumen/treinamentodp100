@@ -1,0 +1,4 @@
+A temperatura influencia diretamente a venda de sorvetes.
+Quanto maior o calor, maior a demanda por sorvetes.
+Previsões ajudam a reduzir desperdícios e evitar falta de produto.
+Machine Learning auxilia o planejamento da produção e da equipe.
