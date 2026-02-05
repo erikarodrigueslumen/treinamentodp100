@@ -65,11 +65,13 @@ gelato-magico-ml/
 
 **Relação entre temperatura e vendas**:
 
-![Relação temperatura-vendas](reports/figures/relacao_temp_vendas.png)
+![Relação temperatura-vendas](relacao_temp_vendas.png)
+
+![Regressão linear](regressao_linear.png)
 
 **Ajuste de regressão linear**:
 
-![Regressão linear](reports/figures/regressao_linear.png)
+![Regressão linear](regressao_linear.png)
 
 > Observações:
 > - Existe uma **correlação positiva** clara: dias mais quentes → mais vendas.
